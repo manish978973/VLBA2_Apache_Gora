@@ -27,9 +27,7 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 
 ## DOWNLOADING AND INSTALLING THE PROJECT
 
-Download the appropriate Gora versions by clicking the following [link ](https://gora.apache.org/downloads.html).
-
-After downloading the source code of Gora we are good to install it
+Download the appropriate Gora versions by clicking the following [link ](https://gora.apache.org/downloads.html).After downloading the source code of Gora, we are good to install it
 
 `$ cd gora`
 
