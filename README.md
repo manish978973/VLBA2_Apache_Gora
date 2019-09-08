@@ -27,7 +27,7 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 
 ## SETTING UP THE JAVA and LINUX ENVIRONMENT 
 
-This project was developed using IntelliJ IDEA integrated environment and in Ubuntu.Follow the [link ](https://www.jetbrains.com/help/idea/installation-guide.html) to set up the environment.
+This project was developed using IntelliJ IDEA integrated environment and in Ubuntu.Follow the [link ](https://www.jetbrains.com/help/idea/installation-guide.html) to set up the Java IDE.
 
 ## DOWNLOADING AND INSTALLING THE PROJECT
 
@@ -36,6 +36,14 @@ Download the appropriate Gora versions by clicking the following [link ](https:/
 `$ cd gora`
 
 `$ mvn clean install`
+
+## USING MAVEN TO MANAGE GORA
+
+If your project however uses maven, then you can include Gora dependencies to your project by adding all the lines of given pom.xml file
+
+## GORA MODULES AND INTEGRATION
+
+A further idea on Gora modules and its integration can be studies from the following [article ](https://gora.apache.org/current/index.html).
 
 
 
