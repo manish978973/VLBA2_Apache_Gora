@@ -31,7 +31,7 @@ Download the appropriate Gora versions by clicking the following [link ](https:/
 
 After downloading the source code of Gora we are good to install it
 
-`$ cd gora` .
+`$ cd gora`.
 `$ mvn clean install`
 
 
