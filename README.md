@@ -25,6 +25,10 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 * Linux Mint
 * Ubuntu
 
+## SETTING UP THE JAVA and LINUX ENVIRONMENT 
+
+This project was developed using IntelliJ IDEA integrated environment and in Ubuntu.Follow the [link ](https://www.jetbrains.com/help/idea/installation-guide.html) to set up the environment.
+
 ## DOWNLOADING AND INSTALLING THE PROJECT
 
 Download the appropriate Gora versions by clicking the following [link ](https://gora.apache.org/downloads.html).After downloading the source code of Gora, we are good to install it
