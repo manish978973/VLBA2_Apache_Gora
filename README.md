@@ -25,6 +25,10 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 * Linux Mint
 * Ubuntu
 
+## DOWNLOADING AND INSTALLING THE PROJECT
+
+Download the appropriate Gora versions by clicking the following [link ](https://gora.apache.org/downloads.html).
+
 
 This is just **demo** 
 
