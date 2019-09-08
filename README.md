@@ -9,11 +9,11 @@ Gora also enables analysis of data with extensive Apache Hadoop MapReduce.
 
 The overall goal for Gora is to become the standard data representation and persistence framework for big data. The features of Gora can be grouped as follows:
 
-* Data Persistence : Persisting objects to Column stores such as Apache HBase™, Apache Cassandra™, Hypertable; key-value stores such as Voldermort, Redis, etc; SQL databases, such as MySQL, HSQLDB, flat files in local file system of Hadoop HDFS;
-* Data Access : An easy to use Java-friendly common API for accessing the data regardless of its location;
-* Indexing : Persisting objects to Apache Lucene and Apache Solr indexes, accessing/querying the data with Gora API;
-* Analysis : Accesing the data and making analysis through adapters for Apache Pig, Apache Hive and Cascading;
-* MapReduce support : Out-of-the-box and extensive MapReduce (Apache Hadoop™) support for data in the data store.
+* **Data Persistence** : Persisting objects to Column stores such as Apache HBase™, Apache Cassandra™, Hypertable; key-value stores such as Voldermort, Redis, etc; SQL databases, such as MySQL, HSQLDB, flat files in local file system of Hadoop HDFS;
+* **Data Access** : An easy to use Java-friendly common API for accessing the data regardless of its location;
+* **Indexing** : Persisting objects to Apache Lucene and Apache Solr indexes, accessing/querying the data with Gora API;
+* **Analysis** : Accesing the data and making analysis through adapters for Apache Pig, Apache Hive and Cascading;
+* **MapReduce support** : Out-of-the-box and extensive MapReduce (Apache Hadoop™) support for data in the data store.
 
 
 
