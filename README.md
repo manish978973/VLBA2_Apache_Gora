@@ -19,6 +19,11 @@ Gora also enables analysis of data with extensive Apache Hadoop MapReduce.
 
 ORM stands for Object Relation Mapping. It is a technology which abstacts the persistency layer (mostly Relational Databases) so that plain domain level objects can be used, without the cumbersome effort to save/load the data to and from the database.
 
+## WHAT PLATFORM DOES GORA WORK ON ?
+
+* Mac OSX 10.9.3
+* Linux Mint
+* Ubuntu
 
 
 This is just **demo** 
