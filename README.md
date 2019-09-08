@@ -15,6 +15,10 @@ Gora also enables analysis of data with extensive Apache Hadoop MapReduce.
 * **Analysis** : Accesing the data and making analysis through adapters for Apache Pig, Apache Hive and Cascading;
 * **MapReduce support** : Out-of-the-box and extensive MapReduce (Apache Hadoop) support for data in the data store.
 
+## BACKGROUND
+
+ORM stands for Object Relation Mapping. It is a technology which abstacts the persistency layer (mostly Relational Databases) so that plain domain level objects can be used, without the cumbersome effort to save/load the data to and from the database.
+
 
 
 This is just **demo** 
