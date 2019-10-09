@@ -72,6 +72,35 @@ A further idea on Gora modules and its integration can be studies from the follo
 * A map-reduce program to calculate the number of daily pageviews for each URL in the site from the log file is to be performed.
 * After the map-reduce process,the output needs to be pushed back to No-SQL database in another table.
 
+### ENTITY RELATION - DATA MODELLING
+
+### PROCESS FLOW IN USE-CASE 1 - PROCESS MODELLING
+
+### PROCESS FLOW IN USE-CASE 2 - PROCESS MODELLING 
+
+## APACHE GORA SYSTEM DESIGN ARCHITECTURE
+
+### DATA BEAN DEFINITION
+
+* Data beans are the main way to hold data in memory and persist in Gora.
+* Apache AVRO is used for defining beans as it gives us the possibility to keep tracking an objects persistent state and implement serializability(objects that can be written to streams or databases).
+* We define a JSON structure of the object to be mapped to data store.
+* Next, these JSON structure is compiled by Apache Gora compiler (extension of Avro) to to Java class.
+* These generated classes extend persistence interface.
+* Next using the mapping (Data store configuration) we declare how the fields of classes declared in Avro Schemas are serialized and persisted to data store.
+* Next API can be called to perform the case parsing or MapReduce.
+
+
+## USABILITY OF GORA
+
+* Gora has out of the box first class MapReduce support for Apache Hadoop.
+* Gora Data store mapping and APIs can be used as inputs and outputs of jobs.
+* Gora’s Integrated APIs can be used for further Analysis of Big Data subjected to Map Reduce.
+* Gora’s support and mapping to  NoSQL databases with its inbuilt data store classes. 
+
+
+
+
 
 
 
