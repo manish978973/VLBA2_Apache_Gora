@@ -76,6 +76,8 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 ### ENTITY RELATION - DATA MODELLING
 
+<Image src="Images/entityrelation.png	" class="center" style="width:50%">
+
 ### PROCESS FLOW IN USE-CASE 1 - PROCESS MODELLING
 
 ### PROCESS FLOW IN USE-CASE 2 - PROCESS MODELLING 
