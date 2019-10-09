@@ -86,7 +86,7 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 ### PROCESS FLOW IN USE-CASE 2 - PROCESS MODELLING 
 
-  <Image src="Images/use2pro.png" class="center" height="250" width="600">
+  <Image src="Images/use2pro.png" class="center" height="150" width="600">
 
 ## APACHE GORA SYSTEM DESIGN ARCHITECTURE
 
