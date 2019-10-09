@@ -1,8 +1,5 @@
 # MAP REDUCE USING APACHE GORA
 
-THOORI
-***
-
 The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores, distributed in-memory key/value stores, in-memory data grids, in-memory caches, distributed multi-model stores, and hybrid in-memory architectures.
 
 Gora also enables analysis of data with extensive Apache Hadoop MapReduce.
