@@ -27,7 +27,7 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 
 ## APACHE GORA SUPPORT FOR PROJECTS
 
-<Image src="Images/avro.png" class="center" style="width:50%"> <Image src="Images/cassandra.png" class="center" style="width:50%"><Image src="Images/hbase.png" class="center" style="width:50%"><Image src="Images/hive.png" class="center" style="width:50%"><Image src="Images/pig.jpg" class="center" style="width:50%"><Image src="Images/solr.jpg" class="center" style="width:50%">
+<Image src="Images/avro.png" class="center" style="width:50%"> <Image src="Images/cassandra.png" class="center" style="width:50%"><Image src="Images/hbase.png" class="center" style="width:50%"><Image src="Images/hive.png" class="center" style="width:50%"><Image src="Images/solr.jpg" class="center" style="width:50%">
 
 
 
