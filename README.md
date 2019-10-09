@@ -100,6 +100,10 @@ A further idea on Gora modules and its integration can be studies from the follo
 * Next using the mapping (Data store configuration) we declare how the fields of classes declared in Avro Schemas are serialized and persisted to data store.
 * Next API can be called to perform the case parsing or MapReduce.
 
+## DEPLOYMENT DIAGRAM
+
+<Image src="Images/dep.png" class="center" style="width:50%">
+
 
 ## USABILITY OF GORA
 
