@@ -58,7 +58,7 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 ## USECASES IMPLEMENTED ON APACHE GORA
 
-#### <u>USECASE 1</u>
+#### <ins>USECASE 1</ins>
 
 
 
