@@ -60,6 +60,19 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 #### <ins>USECASE 1</ins>
 
+* We have parsed a log file into a No SQL database using Gora In-Memory framework.
+* The log files are of (**now showdown**) server at [site ](http://www.buldinle.com).The file was obtained from Apache Gora's official portal.
+* Example logs contain 10,000 lines between dates 2009/3/10-2009/03/15
+* The first fields in order are User's IP,ignored,ignored,Date and time,HTTP method,URL,HTTP method, HTTP status code,Number of bytes returned and User Agent.
+
+
+#### <ins>USECASE 2</ins>
+
+* Perform a Data Analysis on the data in H-base.
+* A map-reduce program to calculate the number of daily pageviews for each URL in the site from the log file is to be performed.
+* After the map-reduce process,the output needs to be pushed back to No-SQL database in another table.
+
+
 
 
 
