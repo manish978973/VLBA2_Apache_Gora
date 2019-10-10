@@ -82,7 +82,9 @@ A further idea on Gora modules and its integration can be studies from the follo
   <Image src="Images/entityrelation.png" class="center" style="width:50%">
 
 </div>
+
 ### PROCESS FLOW IN USE-CASE 1 & USE-CASE 2 - PROCESS MODELLING
+
 <div align="center">
 
   <Image src="Images/use1new.png" class="center" height="200" width="350">    <Image src="Images/use2pro.png" class="center" height="100" width="450"> 
