@@ -1,4 +1,4 @@
-# MAP REDUCE USING APACHE GORA                       <Image src="Images/gora.png" class="center" style="width:50%"> 
+# MAP REDUCE USING APACHE GORA                       <Image src="Images/gora.png" class="center" style="width:50%" align="right"> 
 
 The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores, distributed in-memory key/value stores, in-memory data grids, in-memory caches, distributed multi-model stores, and hybrid in-memory architectures.
 
