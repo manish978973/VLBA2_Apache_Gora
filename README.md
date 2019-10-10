@@ -27,8 +27,9 @@ ORM stands for Object Relation Mapping. It is a technology which abstacts the pe
 
 ## APACHE GORA SUPPORT FOR PROJECTS
 
+<div align="center">
 <Image src="Images/avro.png" class="center" style="width:50%"> <Image src="Images/cassandra.png" class="center" style="width:50%"><Image src="Images/hbase.png" class="center" style="width:50%"><Image src="Images/hive.png" class="center" style="width:50%"><Image src="Images/solr.jpg" class="center" style="width:50%">
-
+  </div>
 
 
 
@@ -76,14 +77,17 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 ### ENTITY RELATION - DATA MODELLING
 
+<div align="center">
 
   <Image src="Images/entityrelation.png" class="center" style="width:50%">
 
-
+</div>
 ### PROCESS FLOW IN USE-CASE 1 & USE-CASE 2 - PROCESS MODELLING
-
+<div align="center">
 
   <Image src="Images/use1new.png" class="center" height="200" width="350">    <Image src="Images/use2pro.png" class="center" height="100" width="450"> 
+  
+  </div>
 
 ## APACHE GORA SYSTEM DESIGN ARCHITECTURE
 
@@ -102,8 +106,11 @@ A further idea on Gora modules and its integration can be studies from the follo
 
 ## DEPLOYMENT DIAGRAM
 
+<div align="center">
+
 <Image src="Images/dep.png" class="center" style="width:50%">
 
+</div>
 
 ## USABILITY OF GORA
 
